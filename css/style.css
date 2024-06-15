@@ -253,6 +253,8 @@ header::after{
     -moz-border-radius: 30px;
     -ms-border-radius: 30px;
     -o-border-radius: 30px;
+    width:100px;
+     height:100px;
 }
 
 .Ellipse_2{
