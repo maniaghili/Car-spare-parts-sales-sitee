@@ -77,6 +77,7 @@ body{
 
 header::before{
     content: '';
+    overflow-x: hidden;
     width: 904px;
     height: 876px;
     background-image: radial-gradient(#3D0D58 38%,#070F1C 0);
@@ -128,6 +129,7 @@ header::after{
 }
 .bg_gradient_main_site{
     background-image: linear-gradient(to right,#7011AD,#BC0505,#FC630F);
+    overflow-x: hidden;
 }
 .main_img_header::before,.main_img_header::after{
     content: '';
@@ -300,8 +302,8 @@ header::after{
     width: 90%;
 }
 .Ellipse_3{
-    width: 1605px;
-    height: 1613px;
+    width: 605px;
+    height: 613px;
     top: -17rem;
     right: -37rem;
     background: radial-gradient(62.37% 62.37% at 50% 50%, rgba(189, 9, 95, 0.13) 37.62%, rgba(7, 15, 28, 0.00) 100%);
@@ -352,6 +354,7 @@ footer{
     top: -11%;
     right: -12%;
     width: 615px;
+    overflow-x: hidden;
     height: 584px;
     background: radial-gradient(62.37% 62.37% at 50% 50%, rgba(8, 52, 164, 0.20) 21.7%, rgba(7, 15, 28, 0.00) 100%);
     -webkit-filter: blur(50px);
