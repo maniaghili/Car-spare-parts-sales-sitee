@@ -81,7 +81,7 @@ input:active,input:focus{
     }
 }
 
-@media screen and (max-width:350px){
+@media screen and (max-width:375px){
 
     .login_page{width: 290px;
     height: 530px;}
