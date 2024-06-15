@@ -33,3 +33,7 @@ function moshaveri(){
     confirmButtonText: 'تایید'
   })
 }
+
+AOS.init(
+  
+)
