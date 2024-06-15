@@ -80,3 +80,10 @@ input:active,input:focus{
         background-position: 0 50%;
     }
 }
+
+@media screen and (max-width:350px){
+
+    .login_page{width: 290px;
+    height: 530px;}
+    
+}
