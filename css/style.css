@@ -245,7 +245,16 @@ header::after{
     height: 58px;
     font-size: 1.5rem;
     font-family: Gilroy_Bold;
+} 
+
+.img_top_creators img{
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
 }
+
 .Ellipse_2{
   width: 952px;
   height: 991px;
