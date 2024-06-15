@@ -22,7 +22,7 @@ input:active,input:focus{
 .login_page{
     position: fixed;
     background-color: #E4EBF5;
-    width: 390px;
+    width: 350px;
     height: 580px;
     border-radius: 50px;
     padding: 40px 20px;
