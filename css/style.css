@@ -492,3 +492,12 @@ footer{
       -ms-border-radius: 7px; 
       -o-border-radius: 7px;
 }
+
+@media screen and (max-width:375px){
+    .box_trends{
+        max-height: 520px;
+    }
+}
+@media screen and (max-width:325px){
+    .box_trends{max-height: 450px;}
+}
